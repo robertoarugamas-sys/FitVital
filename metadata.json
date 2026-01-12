@@ -1,0 +1,5 @@
+{
+  "name": "FitVital - Rastreador Corporal",
+  "description": "Una aplicación integral para el seguimiento de medidas corporales (peso en lbs, grasa, cintura) con objetivos intermedios/finales y motivación inteligente.",
+  "requestFramePermissions": []
+}
